@@ -33,8 +33,8 @@ module.exports = () => {
         name: "JUST ANOTHER TEXT EDITOR",
         short_name: "J.A.T.E.",
         description: "this is a text editor that allows you to take notes with javascript, syntax highlighting",
-        background_color: "#fffff",
-        theme_color: "#gkkjf",
+        background_color: "#505451",
+        theme_color: "#3d2766",
         start_url: "/",
         publicPath: "/",
         icons: [{
